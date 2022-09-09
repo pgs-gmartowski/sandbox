@@ -1,10 +1,10 @@
 <br />
-<div style="display: flex; justify-content: center; align-items: center" id="readme-top">
+<span style="display: flex; justify-content: center; align-items: center" id="readme-top">
   <a href="https://github.com/pgs-gmartowski/stabsoft-official/blob/master/README.md">
     <img src="https://stabsoft.pl/images/stabsoft-logo.png" alt="Logo" width="62" height="65">
   </a>
    <h1>Typescript Sandbox</h1>
-</div>
+</span>
 
 <details>
   <summary>Table of Contents</summary>
